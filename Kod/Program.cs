@@ -20,3 +20,5 @@ void PrintArray(string[] array)
 }
 SecondArrayWithIF(array1, array2);
 PrintArray(array2);
+
+
